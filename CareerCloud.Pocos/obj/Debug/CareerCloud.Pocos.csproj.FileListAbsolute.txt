@@ -1,0 +1,8 @@
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csproj.CopyComplete
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.dll
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.pdb
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csprojAssemblyReference.cache

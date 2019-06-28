@@ -1,0 +1,5 @@
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\CareerCloud.DataAccessLayer.pdb

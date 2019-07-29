@@ -27,8 +27,10 @@ using System.Threading.Tasks;
         [Column("End_Year")]
         public int EndYear { get; set; }
 
-        [Column("Time_Stamp")]
+        [Column("Time_Stamp")] [Timestamp]
         public Byte[] TimeStamp { get; set; }
-       
+
+        public virtual ApplicantProfilePoco ApplicantProfiles { get; set; }
+
     }
 }

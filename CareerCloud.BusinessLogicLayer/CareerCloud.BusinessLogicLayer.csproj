@@ -65,6 +65,10 @@
     <Compile Include="ValidationException.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CareerCloud.ADODataAccessLayer\CareerCloud.ADODataAccessLayer.csproj">
+      <Project>{d14dddc6-6591-4ba2-9778-87347f9b0e06}</Project>
+      <Name>CareerCloud.ADODataAccessLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CareerCloud.DataAccessLayer\CareerCloud.DataAccessLayer.csproj">
       <Project>{BB637E05-0C38-460A-9412-0D5D7338A860}</Project>
       <Name>CareerCloud.DataAccessLayer</Name>

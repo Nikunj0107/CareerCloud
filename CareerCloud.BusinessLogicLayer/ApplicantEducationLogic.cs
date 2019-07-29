@@ -48,7 +48,7 @@ namespace CareerCloud.BusinessLogicLayer
 
                 if (poco.CompletionDate < poco.StartDate )
                 {
-                    exceptions.Add(new ValidationException(108, $"CompletionDate for ApplicantEducation {poco.Id} cannot be earlier than StartDate"));
+                    exceptions.Add(new ValidationException(109, $"CompletionDate for ApplicantEducation {poco.Id} cannot be earlier than StartDate"));
                 }
          
             }

@@ -40,7 +40,7 @@ namespace CareerCloud.BusinessLogicLayer
                     exceptions.Add(new ValidationException(102, $"EndMonth for ApplicantSkill {poco.Id}" +
                         $" cannot be greater than 12"));
                 }
-                if (poco.StartYear < 1899)
+                if (poco.StartYear <= 1899)
                 {
                     exceptions.Add(new ValidationException(103, $"StartYear for ApplicantSkill {poco.Id}" +
                         $" cannot be less than 1900"));

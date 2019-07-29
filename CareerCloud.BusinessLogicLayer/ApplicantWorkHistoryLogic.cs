@@ -30,11 +30,15 @@ namespace CareerCloud.BusinessLogicLayer
 
             foreach (var poco in pocos)
             {
-
-                if (poco.CompanyName.Length > 3)
+                if (string.IsNullOrEmpty(poco.CompanyName))
                 {
                     exceptions.Add(new ValidationException(105, $"CompanyName for ApplicantWorkHistory {poco.Id}" +
-                        $" must be greater then 2 characters"));
+                        $" cannot be null or empty"));
+                }
+                else if (poco.CompanyName.Length <= 2)
+                {
+                    exceptions.Add(new ValidationException(105, $"CompanyName for ApplicantWorkHistory {poco.Id}" +
+                        $" must be greater than 2 characters"));
                 }
             }
 

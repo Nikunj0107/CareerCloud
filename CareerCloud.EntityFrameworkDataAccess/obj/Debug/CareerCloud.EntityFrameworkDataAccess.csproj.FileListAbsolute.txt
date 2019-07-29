@@ -1,0 +1,16 @@
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.dll.config
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.csprojAssemblyReference.cache
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.csproj.CopyComplete
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.Pocos.pdb

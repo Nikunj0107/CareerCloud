@@ -9,3 +9,5 @@ C:\Users\ajita\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug
 C:\Users\ajita\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.csproj.CopyComplete
 C:\Users\ajita\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.dll
 C:\Users\ajita\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.ADODataAccessLayer.dll
+C:\Users\ajita\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.ADODataAccessLayer.pdb

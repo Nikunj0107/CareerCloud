@@ -65,7 +65,7 @@ namespace CareerCloud.BusinessLogicLayer
                 else
                 {
                     string[] websiteComponent = poco.CompanyWebsite.Split('.') ; 
-                    if (websiteComponent[1] != "com" || websiteComponent[1] != "ca" || websiteComponent[1] != "biz")
+                    if (websiteComponent[2] != "com" && websiteComponent[2] != "ca" && websiteComponent[2] != "biz")
                     {
                         exceptions.Add(new ValidationException(600, $"CompanyWebsite for CompanyProfile {poco.Id} " +
                             $"must end in valid extension (.com,.ca,.biz) "));

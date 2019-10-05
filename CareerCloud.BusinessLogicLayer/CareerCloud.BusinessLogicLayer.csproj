@@ -74,7 +74,7 @@
       <Name>CareerCloud.DataAccessLayer</Name>
     </ProjectReference>
     <ProjectReference Include="..\CareerCloud.Pocos\CareerCloud.Pocos.csproj">
-      <Project>{4F4790ED-7950-4B51-BFB8-BD219D844E59}</Project>
+      <Project>{4f4790ed-7950-4b51-bfb8-bd219d844e59}</Project>
       <Name>CareerCloud.Pocos</Name>
     </ProjectReference>
   </ItemGroup>
